@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main(){
-    printf("Hola pipe");
+    printf("Hola cris");
 
     return 0;
 }
